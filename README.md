@@ -1,2 +1,2 @@
-# mypic_wii
-by image source for md
+# my_pictures
+我的图片引用仓库
